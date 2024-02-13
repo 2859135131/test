@@ -1,0 +1,4 @@
+2023-11-19 20:38:00,045 tencent_speech.log-INFO  start:295 7941738d-86d8-11ee-b8e2-2c3358e59362 recognition start
+2023-11-19 20:38:03,177 tencent_speech.log-INFO  on_message:243 7941738d-86d8-11ee-b8e2-2c3358e59362 recognition complete
+2023-11-19 20:39:05,312 tencent_speech.log-INFO  start:295 a0287b09-86d8-11ee-97a8-2c3358e59362 recognition start
+2023-11-19 20:39:08,322 tencent_speech.log-INFO  on_message:243 a0287b09-86d8-11ee-97a8-2c3358e59362 recognition complete
